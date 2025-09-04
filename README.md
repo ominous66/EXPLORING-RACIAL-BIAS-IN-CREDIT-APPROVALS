@@ -42,9 +42,7 @@ This project investigates the presence and extent of racial bias in home loan ap
 - HMDA dataset documentation and related research on mortgage discrimination[1][3].
 - Recent studies on racial bias in algorithmic lending and credit approval systems[2][4].
 
-## Acknowledgments
 
-Project completed as part of ECO545 under the supervision of **Prof. Arshad Rahman** at the Indian Institute of Technology Kanpur.
 
 
 **Keywords:** Racial Bias, Credit Approvals, Bayesian Probit, MLE, HMDA, Mortgage Lending, Discrimination Analysis
